@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextAndImageSwitcherExample</string>
+    <string name="next">Avançar</string>
+    <string name="first_message">Goku</string>
+    <string name="second_message">Vegeta</string>
+    <string name="back">Voltar</string>
+</resources>
